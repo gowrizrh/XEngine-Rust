@@ -1,6 +1,6 @@
 ### XEngine 🚂 v0.1.0
 
-Fast and efficient XML to CSV parser.
+Fast and efficient CSV to XML parser.
 
 #### Example usage
 1. Place the csv file inside the `in` directory.
@@ -9,6 +9,6 @@ Fast and efficient XML to CSV parser.
 
 #### To do
 
-- [] Command line arguments for file input, output
-- [] Custom wrapper instead of row
-- [] GUI (maybe)
+- Command line arguments for file input, output
+- Custom wrapper instead of row
+- GUI (maybe)
