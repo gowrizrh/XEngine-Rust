@@ -1,0 +1,1592 @@
+<!-- 
+
+XEngine 🚂 v0.1.0
+
+-->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Tuvalu </country>
+		<item_type> Baby Food </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 5/28/2010 </order_date>
+		<order_id> 669165933 </order_id>
+		<ship_date> 6/27/2010 </ship_date>
+		<units_sold> 9925 </units_sold>
+		<unit_price> 255.28 </unit_price>
+		<unit_cost> 159.42 </unit_cost>
+		<total_revenue> 2533654.00 </total_revenue>
+		<total_cost> 1582243.50 </total_cost>
+		<total_profit> 951410.50 </total_profit>
+	</row>
+	<row>
+		<region> Central America and the Caribbean </region>
+		<country> Grenada </country>
+		<item_type> Cereal </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 8/22/2012 </order_date>
+		<order_id> 963881480 </order_id>
+		<ship_date> 9/15/2012 </ship_date>
+		<units_sold> 2804 </units_sold>
+		<unit_price> 205.70 </unit_price>
+		<unit_cost> 117.11 </unit_cost>
+		<total_revenue> 576782.80 </total_revenue>
+		<total_cost> 328376.44 </total_cost>
+		<total_profit> 248406.36 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Russia </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 5/2/2014 </order_date>
+		<order_id> 341417157 </order_id>
+		<ship_date> 5/8/2014 </ship_date>
+		<units_sold> 1779 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 1158502.59 </total_revenue>
+		<total_cost> 933903.84 </total_cost>
+		<total_profit> 224598.75 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Sao Tome and Principe </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 6/20/2014 </order_date>
+		<order_id> 514321792 </order_id>
+		<ship_date> 7/5/2014 </ship_date>
+		<units_sold> 8102 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 75591.66 </total_revenue>
+		<total_cost> 56065.84 </total_cost>
+		<total_profit> 19525.82 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Rwanda </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 2/1/2013 </order_date>
+		<order_id> 115456712 </order_id>
+		<ship_date> 2/6/2013 </ship_date>
+		<units_sold> 5062 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 3296425.02 </total_revenue>
+		<total_cost> 2657347.52 </total_cost>
+		<total_profit> 639077.50 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Solomon Islands </country>
+		<item_type> Baby Food </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 2/4/2015 </order_date>
+		<order_id> 547995746 </order_id>
+		<ship_date> 2/21/2015 </ship_date>
+		<units_sold> 2974 </units_sold>
+		<unit_price> 255.28 </unit_price>
+		<unit_cost> 159.42 </unit_cost>
+		<total_revenue> 759202.72 </total_revenue>
+		<total_cost> 474115.08 </total_cost>
+		<total_profit> 285087.64 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Angola </country>
+		<item_type> Household </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 4/23/2011 </order_date>
+		<order_id> 135425221 </order_id>
+		<ship_date> 4/27/2011 </ship_date>
+		<units_sold> 4187 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 2798046.49 </total_revenue>
+		<total_cost> 2104134.98 </total_cost>
+		<total_profit> 693911.51 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Burkina Faso </country>
+		<item_type> Vegetables </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 7/17/2012 </order_date>
+		<order_id> 871543967 </order_id>
+		<ship_date> 7/27/2012 </ship_date>
+		<units_sold> 8082 </units_sold>
+		<unit_price> 154.06 </unit_price>
+		<unit_cost> 90.93 </unit_cost>
+		<total_revenue> 1245112.92 </total_revenue>
+		<total_cost> 734896.26 </total_cost>
+		<total_profit> 510216.66 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Republic of the Congo </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 7/14/2015 </order_date>
+		<order_id> 770463311 </order_id>
+		<ship_date> 8/25/2015 </ship_date>
+		<units_sold> 6070 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 496101.10 </total_revenue>
+		<total_cost> 343986.90 </total_cost>
+		<total_profit> 152114.20 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Senegal </country>
+		<item_type> Cereal </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 4/18/2014 </order_date>
+		<order_id> 616607081 </order_id>
+		<ship_date> 5/30/2014 </ship_date>
+		<units_sold> 6593 </units_sold>
+		<unit_price> 205.70 </unit_price>
+		<unit_cost> 117.11 </unit_cost>
+		<total_revenue> 1356180.10 </total_revenue>
+		<total_cost> 772106.23 </total_cost>
+		<total_profit> 584073.87 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Kyrgyzstan </country>
+		<item_type> Vegetables </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 6/24/2011 </order_date>
+		<order_id> 814711606 </order_id>
+		<ship_date> 7/12/2011 </ship_date>
+		<units_sold> 124 </units_sold>
+		<unit_price> 154.06 </unit_price>
+		<unit_cost> 90.93 </unit_cost>
+		<total_revenue> 19103.44 </total_revenue>
+		<total_cost> 11275.32 </total_cost>
+		<total_profit> 7828.12 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Cape Verde </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 8/2/2014 </order_date>
+		<order_id> 939825713 </order_id>
+		<ship_date> 8/19/2014 </ship_date>
+		<units_sold> 4168 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 455479.04 </total_revenue>
+		<total_cost> 149381.12 </total_cost>
+		<total_profit> 306097.92 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Bangladesh </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 1/13/2017 </order_date>
+		<order_id> 187310731 </order_id>
+		<ship_date> 3/1/2017 </ship_date>
+		<units_sold> 8263 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 902980.64 </total_revenue>
+		<total_cost> 296145.92 </total_cost>
+		<total_profit> 606834.72 </total_profit>
+	</row>
+	<row>
+		<region> Central America and the Caribbean </region>
+		<country> Honduras </country>
+		<item_type> Household </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 2/8/2017 </order_date>
+		<order_id> 522840487 </order_id>
+		<ship_date> 2/13/2017 </ship_date>
+		<units_sold> 8974 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 5997054.98 </total_revenue>
+		<total_cost> 4509793.96 </total_cost>
+		<total_profit> 1487261.02 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Mongolia </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 2/19/2014 </order_date>
+		<order_id> 832401311 </order_id>
+		<ship_date> 2/23/2014 </ship_date>
+		<units_sold> 4901 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 400558.73 </total_revenue>
+		<total_cost> 277739.67 </total_cost>
+		<total_profit> 122819.06 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Bulgaria </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 4/23/2012 </order_date>
+		<order_id> 972292029 </order_id>
+		<ship_date> 6/3/2012 </ship_date>
+		<units_sold> 1673 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 182825.44 </total_revenue>
+		<total_cost> 59960.32 </total_cost>
+		<total_profit> 122865.12 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Sri Lanka </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 11/19/2016 </order_date>
+		<order_id> 419123971 </order_id>
+		<ship_date> 12/18/2016 </ship_date>
+		<units_sold> 6952 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 3039414.40 </total_revenue>
+		<total_cost> 1830670.16 </total_cost>
+		<total_profit> 1208744.24 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Cameroon </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 4/1/2015 </order_date>
+		<order_id> 519820964 </order_id>
+		<ship_date> 4/18/2015 </ship_date>
+		<units_sold> 5430 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 257653.50 </total_revenue>
+		<total_cost> 172619.70 </total_cost>
+		<total_profit> 85033.80 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Turkmenistan </country>
+		<item_type> Household </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 12/30/2010 </order_date>
+		<order_id> 441619336 </order_id>
+		<ship_date> 1/20/2011 </ship_date>
+		<units_sold> 3830 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 2559474.10 </total_revenue>
+		<total_cost> 1924728.20 </total_cost>
+		<total_profit> 634745.90 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> East Timor </country>
+		<item_type> Meat </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 7/31/2012 </order_date>
+		<order_id> 322067916 </order_id>
+		<ship_date> 9/11/2012 </ship_date>
+		<units_sold> 5908 </units_sold>
+		<unit_price> 421.89 </unit_price>
+		<unit_cost> 364.69 </unit_cost>
+		<total_revenue> 2492526.12 </total_revenue>
+		<total_cost> 2154588.52 </total_cost>
+		<total_profit> 337937.60 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Norway </country>
+		<item_type> Baby Food </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 5/14/2014 </order_date>
+		<order_id> 819028031 </order_id>
+		<ship_date> 6/28/2014 </ship_date>
+		<units_sold> 7450 </units_sold>
+		<unit_price> 255.28 </unit_price>
+		<unit_cost> 159.42 </unit_cost>
+		<total_revenue> 1901836.00 </total_revenue>
+		<total_cost> 1187679.00 </total_cost>
+		<total_profit> 714157.00 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Portugal </country>
+		<item_type> Baby Food </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 7/31/2015 </order_date>
+		<order_id> 860673511 </order_id>
+		<ship_date> 9/3/2015 </ship_date>
+		<units_sold> 1273 </units_sold>
+		<unit_price> 255.28 </unit_price>
+		<unit_cost> 159.42 </unit_cost>
+		<total_revenue> 324971.44 </total_revenue>
+		<total_cost> 202941.66 </total_cost>
+		<total_profit> 122029.78 </total_profit>
+	</row>
+	<row>
+		<region> Central America and the Caribbean </region>
+		<country> Honduras </country>
+		<item_type> Snacks </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 6/30/2016 </order_date>
+		<order_id> 795490682 </order_id>
+		<ship_date> 7/26/2016 </ship_date>
+		<units_sold> 2225 </units_sold>
+		<unit_price> 152.58 </unit_price>
+		<unit_cost> 97.44 </unit_cost>
+		<total_revenue> 339490.50 </total_revenue>
+		<total_cost> 216804.00 </total_cost>
+		<total_profit> 122686.50 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> New Zealand </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 9/8/2014 </order_date>
+		<order_id> 142278373 </order_id>
+		<ship_date> 10/4/2014 </ship_date>
+		<units_sold> 2187 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 20404.71 </total_revenue>
+		<total_cost> 15134.04 </total_cost>
+		<total_profit> 5270.67 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Moldova  </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 5/7/2016 </order_date>
+		<order_id> 740147912 </order_id>
+		<ship_date> 5/10/2016 </ship_date>
+		<units_sold> 5070 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 414371.10 </total_revenue>
+		<total_cost> 287316.90 </total_cost>
+		<total_profit> 127054.20 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> France </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 5/22/2017 </order_date>
+		<order_id> 898523128 </order_id>
+		<ship_date> 6/5/2017 </ship_date>
+		<units_sold> 1815 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 793518.00 </total_revenue>
+		<total_cost> 477943.95 </total_cost>
+		<total_profit> 315574.05 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Kiribati </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 10/13/2014 </order_date>
+		<order_id> 347140347 </order_id>
+		<ship_date> 11/10/2014 </ship_date>
+		<units_sold> 5398 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 50363.34 </total_revenue>
+		<total_cost> 37354.16 </total_cost>
+		<total_profit> 13009.18 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Mali </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 5/7/2010 </order_date>
+		<order_id> 686048400 </order_id>
+		<ship_date> 5/10/2010 </ship_date>
+		<units_sold> 5822 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 54319.26 </total_revenue>
+		<total_cost> 40288.24 </total_cost>
+		<total_profit> 14031.02 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Norway </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 7/18/2014 </order_date>
+		<order_id> 435608613 </order_id>
+		<ship_date> 7/30/2014 </ship_date>
+		<units_sold> 5124 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 243133.80 </total_revenue>
+		<total_cost> 162891.96 </total_cost>
+		<total_profit> 80241.84 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> The Gambia </country>
+		<item_type> Household </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 5/26/2012 </order_date>
+		<order_id> 886494815 </order_id>
+		<ship_date> 6/9/2012 </ship_date>
+		<units_sold> 2370 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 1583799.90 </total_revenue>
+		<total_cost> 1191019.80 </total_cost>
+		<total_profit> 392780.10 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Switzerland </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 9/17/2012 </order_date>
+		<order_id> 249693334 </order_id>
+		<ship_date> 10/20/2012 </ship_date>
+		<units_sold> 8661 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 3786589.20 </total_revenue>
+		<total_cost> 2280701.13 </total_cost>
+		<total_profit> 1505888.07 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> South Sudan </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 12/29/2013 </order_date>
+		<order_id> 406502997 </order_id>
+		<ship_date> 1/28/2014 </ship_date>
+		<units_sold> 2125 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 173676.25 </total_revenue>
+		<total_cost> 120423.75 </total_cost>
+		<total_profit> 53252.50 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Australia </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 10/27/2015 </order_date>
+		<order_id> 158535134 </order_id>
+		<ship_date> 11/25/2015 </ship_date>
+		<units_sold> 2924 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 1904138.04 </total_revenue>
+		<total_cost> 1534983.04 </total_cost>
+		<total_profit> 369155.00 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Myanmar </country>
+		<item_type> Household </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 1/16/2015 </order_date>
+		<order_id> 177713572 </order_id>
+		<ship_date> 3/1/2015 </ship_date>
+		<units_sold> 8250 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 5513227.50 </total_revenue>
+		<total_cost> 4145955.00 </total_cost>
+		<total_profit> 1367272.50 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Djibouti </country>
+		<item_type> Snacks </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 2/25/2017 </order_date>
+		<order_id> 756274640 </order_id>
+		<ship_date> 2/25/2017 </ship_date>
+		<units_sold> 7327 </units_sold>
+		<unit_price> 152.58 </unit_price>
+		<unit_cost> 97.44 </unit_cost>
+		<total_revenue> 1117953.66 </total_revenue>
+		<total_cost> 713942.88 </total_cost>
+		<total_profit> 404010.78 </total_profit>
+	</row>
+	<row>
+		<region> Central America and the Caribbean </region>
+		<country> Costa Rica </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 5/8/2017 </order_date>
+		<order_id> 456767165 </order_id>
+		<ship_date> 5/21/2017 </ship_date>
+		<units_sold> 6409 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 523807.57 </total_revenue>
+		<total_cost> 363198.03 </total_cost>
+		<total_profit> 160609.54 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Syria </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 11/22/2011 </order_date>
+		<order_id> 162052476 </order_id>
+		<ship_date> 12/3/2011 </ship_date>
+		<units_sold> 3784 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 35304.72 </total_revenue>
+		<total_cost> 26185.28 </total_cost>
+		<total_profit> 9119.44 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> The Gambia </country>
+		<item_type> Meat </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 1/14/2017 </order_date>
+		<order_id> 825304400 </order_id>
+		<ship_date> 1/23/2017 </ship_date>
+		<units_sold> 4767 </units_sold>
+		<unit_price> 421.89 </unit_price>
+		<unit_cost> 364.69 </unit_cost>
+		<total_revenue> 2011149.63 </total_revenue>
+		<total_cost> 1738477.23 </total_cost>
+		<total_profit> 272672.40 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Brunei </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 4/1/2012 </order_date>
+		<order_id> 320009267 </order_id>
+		<ship_date> 5/8/2012 </ship_date>
+		<units_sold> 6708 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 4368316.68 </total_revenue>
+		<total_cost> 3521431.68 </total_cost>
+		<total_profit> 846885.00 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Bulgaria </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 2/16/2012 </order_date>
+		<order_id> 189965903 </order_id>
+		<ship_date> 2/28/2012 </ship_date>
+		<units_sold> 3987 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 2596374.27 </total_revenue>
+		<total_cost> 2093015.52 </total_cost>
+		<total_profit> 503358.75 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Niger </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 3/11/2017 </order_date>
+		<order_id> 699285638 </order_id>
+		<ship_date> 3/28/2017 </ship_date>
+		<units_sold> 3015 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 246415.95 </total_revenue>
+		<total_cost> 170860.05 </total_cost>
+		<total_profit> 75555.90 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Azerbaijan </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 2/6/2010 </order_date>
+		<order_id> 382392299 </order_id>
+		<ship_date> 2/25/2010 </ship_date>
+		<units_sold> 7234 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 3162704.80 </total_revenue>
+		<total_cost> 1904929.22 </total_cost>
+		<total_profit> 1257775.58 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> The Gambia </country>
+		<item_type> Cereal </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 6/7/2012 </order_date>
+		<order_id> 994022214 </order_id>
+		<ship_date> 6/8/2012 </ship_date>
+		<units_sold> 2117 </units_sold>
+		<unit_price> 205.70 </unit_price>
+		<unit_cost> 117.11 </unit_cost>
+		<total_revenue> 435466.90 </total_revenue>
+		<total_cost> 247921.87 </total_cost>
+		<total_profit> 187545.03 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Slovakia </country>
+		<item_type> Vegetables </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 10/6/2012 </order_date>
+		<order_id> 759224212 </order_id>
+		<ship_date> 11/10/2012 </ship_date>
+		<units_sold> 171 </units_sold>
+		<unit_price> 154.06 </unit_price>
+		<unit_cost> 90.93 </unit_cost>
+		<total_revenue> 26344.26 </total_revenue>
+		<total_cost> 15549.03 </total_cost>
+		<total_profit> 10795.23 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Myanmar </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 11/14/2015 </order_date>
+		<order_id> 223359620 </order_id>
+		<ship_date> 11/18/2015 </ship_date>
+		<units_sold> 5930 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 648030.40 </total_revenue>
+		<total_cost> 212531.20 </total_cost>
+		<total_profit> 435499.20 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Comoros </country>
+		<item_type> Cereal </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 3/29/2016 </order_date>
+		<order_id> 902102267 </order_id>
+		<ship_date> 4/29/2016 </ship_date>
+		<units_sold> 962 </units_sold>
+		<unit_price> 205.70 </unit_price>
+		<unit_cost> 117.11 </unit_cost>
+		<total_revenue> 197883.40 </total_revenue>
+		<total_cost> 112659.82 </total_cost>
+		<total_profit> 85223.58 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Iceland </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 12/31/2016 </order_date>
+		<order_id> 331438481 </order_id>
+		<ship_date> 12/31/2016 </ship_date>
+		<units_sold> 8867 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 3876652.40 </total_revenue>
+		<total_cost> 2334947.11 </total_cost>
+		<total_profit> 1541705.29 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Switzerland </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 12/23/2010 </order_date>
+		<order_id> 617667090 </order_id>
+		<ship_date> 1/31/2011 </ship_date>
+		<units_sold> 273 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 22312.29 </total_revenue>
+		<total_cost> 15470.91 </total_cost>
+		<total_profit> 6841.38 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Macedonia </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 10/14/2014 </order_date>
+		<order_id> 787399423 </order_id>
+		<ship_date> 11/14/2014 </ship_date>
+		<units_sold> 7842 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 856973.76 </total_revenue>
+		<total_cost> 281057.28 </total_cost>
+		<total_profit> 575916.48 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Mauritania </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 1/11/2012 </order_date>
+		<order_id> 837559306 </order_id>
+		<ship_date> 1/13/2012 </ship_date>
+		<units_sold> 1266 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 824431.86 </total_revenue>
+		<total_cost> 664599.36 </total_cost>
+		<total_profit> 159832.50 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Albania </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 2/2/2010 </order_date>
+		<order_id> 385383069 </order_id>
+		<ship_date> 3/18/2010 </ship_date>
+		<units_sold> 2269 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 247956.32 </total_revenue>
+		<total_cost> 81320.96 </total_cost>
+		<total_profit> 166635.36 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Lesotho </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 8/18/2013 </order_date>
+		<order_id> 918419539 </order_id>
+		<ship_date> 9/18/2013 </ship_date>
+		<units_sold> 9606 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 89623.98 </total_revenue>
+		<total_cost> 66473.52 </total_cost>
+		<total_profit> 23150.46 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Saudi Arabia </country>
+		<item_type> Cereal </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 3/25/2013 </order_date>
+		<order_id> 844530045 </order_id>
+		<ship_date> 3/28/2013 </ship_date>
+		<units_sold> 4063 </units_sold>
+		<unit_price> 205.70 </unit_price>
+		<unit_cost> 117.11 </unit_cost>
+		<total_revenue> 835759.10 </total_revenue>
+		<total_cost> 475817.93 </total_cost>
+		<total_profit> 359941.17 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Sierra Leone </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 11/26/2011 </order_date>
+		<order_id> 441888415 </order_id>
+		<ship_date> 1/7/2012 </ship_date>
+		<units_sold> 3457 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 2251232.97 </total_revenue>
+		<total_cost> 1814786.72 </total_cost>
+		<total_profit> 436446.25 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Sao Tome and Principe </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 9/17/2013 </order_date>
+		<order_id> 508980977 </order_id>
+		<ship_date> 10/24/2013 </ship_date>
+		<units_sold> 7637 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 71253.21 </total_revenue>
+		<total_cost> 52848.04 </total_cost>
+		<total_profit> 18405.17 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Cote d'Ivoire </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 6/8/2012 </order_date>
+		<order_id> 114606559 </order_id>
+		<ship_date> 6/27/2012 </ship_date>
+		<units_sold> 3482 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 380512.96 </total_revenue>
+		<total_cost> 124794.88 </total_cost>
+		<total_profit> 255718.08 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Fiji </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 6/30/2010 </order_date>
+		<order_id> 647876489 </order_id>
+		<ship_date> 8/1/2010 </ship_date>
+		<units_sold> 9905 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 1082418.40 </total_revenue>
+		<total_cost> 354995.20 </total_cost>
+		<total_profit> 727423.20 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Austria </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 2/23/2015 </order_date>
+		<order_id> 868214595 </order_id>
+		<ship_date> 3/2/2015 </ship_date>
+		<units_sold> 2847 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 1244708.40 </total_revenue>
+		<total_cost> 749700.51 </total_cost>
+		<total_profit> 495007.89 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> United Kingdom </country>
+		<item_type> Household </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 1/5/2012 </order_date>
+		<order_id> 955357205 </order_id>
+		<ship_date> 2/14/2012 </ship_date>
+		<units_sold> 282 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 188452.14 </total_revenue>
+		<total_cost> 141716.28 </total_cost>
+		<total_profit> 46735.86 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Djibouti </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 4/7/2014 </order_date>
+		<order_id> 259353148 </order_id>
+		<ship_date> 4/19/2014 </ship_date>
+		<units_sold> 7215 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 3154398.00 </total_revenue>
+		<total_cost> 1899925.95 </total_cost>
+		<total_profit> 1254472.05 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Australia </country>
+		<item_type> Cereal </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 6/9/2013 </order_date>
+		<order_id> 450563752 </order_id>
+		<ship_date> 7/2/2013 </ship_date>
+		<units_sold> 682 </units_sold>
+		<unit_price> 205.70 </unit_price>
+		<unit_cost> 117.11 </unit_cost>
+		<total_revenue> 140287.40 </total_revenue>
+		<total_cost> 79869.02 </total_cost>
+		<total_profit> 60418.38 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> San Marino </country>
+		<item_type> Baby Food </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 6/26/2013 </order_date>
+		<order_id> 569662845 </order_id>
+		<ship_date> 7/1/2013 </ship_date>
+		<units_sold> 4750 </units_sold>
+		<unit_price> 255.28 </unit_price>
+		<unit_cost> 159.42 </unit_cost>
+		<total_revenue> 1212580.00 </total_revenue>
+		<total_cost> 757245.00 </total_cost>
+		<total_profit> 455335.00 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Cameroon </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 11/7/2011 </order_date>
+		<order_id> 177636754 </order_id>
+		<ship_date> 11/15/2011 </ship_date>
+		<units_sold> 5518 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 3593376.78 </total_revenue>
+		<total_cost> 2896729.28 </total_cost>
+		<total_profit> 696647.50 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Libya </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 10/30/2010 </order_date>
+		<order_id> 705784308 </order_id>
+		<ship_date> 11/17/2010 </ship_date>
+		<units_sold> 6116 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 668356.48 </total_revenue>
+		<total_cost> 219197.44 </total_cost>
+		<total_profit> 449159.04 </total_profit>
+	</row>
+	<row>
+		<region> Central America and the Caribbean </region>
+		<country> Haiti </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 10/13/2013 </order_date>
+		<order_id> 505716836 </order_id>
+		<ship_date> 11/16/2013 </ship_date>
+		<units_sold> 1705 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 745426.00 </total_revenue>
+		<total_cost> 448977.65 </total_cost>
+		<total_profit> 296448.35 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Rwanda </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 10/11/2013 </order_date>
+		<order_id> 699358165 </order_id>
+		<ship_date> 11/25/2013 </ship_date>
+		<units_sold> 4477 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 1957344.40 </total_revenue>
+		<total_cost> 1178928.41 </total_cost>
+		<total_profit> 778415.99 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Gabon </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 7/8/2012 </order_date>
+		<order_id> 228944623 </order_id>
+		<ship_date> 7/9/2012 </ship_date>
+		<units_sold> 8656 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 707454.88 </total_revenue>
+		<total_cost> 490535.52 </total_cost>
+		<total_profit> 216919.36 </total_profit>
+	</row>
+	<row>
+		<region> Central America and the Caribbean </region>
+		<country> Belize </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 7/25/2016 </order_date>
+		<order_id> 807025039 </order_id>
+		<ship_date> 9/7/2016 </ship_date>
+		<units_sold> 5498 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 600821.44 </total_revenue>
+		<total_cost> 197048.32 </total_cost>
+		<total_profit> 403773.12 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Lithuania </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 10/24/2010 </order_date>
+		<order_id> 166460740 </order_id>
+		<ship_date> 11/17/2010 </ship_date>
+		<units_sold> 8287 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 5396577.27 </total_revenue>
+		<total_cost> 4350343.52 </total_cost>
+		<total_profit> 1046233.75 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Madagascar </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 4/25/2015 </order_date>
+		<order_id> 610425555 </order_id>
+		<ship_date> 5/28/2015 </ship_date>
+		<units_sold> 7342 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 802333.76 </total_revenue>
+		<total_cost> 263137.28 </total_cost>
+		<total_profit> 539196.48 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Turkmenistan </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 4/23/2013 </order_date>
+		<order_id> 462405812 </order_id>
+		<ship_date> 5/20/2013 </ship_date>
+		<units_sold> 5010 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 3262562.10 </total_revenue>
+		<total_cost> 2630049.60 </total_cost>
+		<total_profit> 632512.50 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Libya </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 8/14/2015 </order_date>
+		<order_id> 816200339 </order_id>
+		<ship_date> 9/30/2015 </ship_date>
+		<units_sold> 673 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 6279.09 </total_revenue>
+		<total_cost> 4657.16 </total_cost>
+		<total_profit> 1621.93 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Democratic Republic of the Congo </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 5/26/2011 </order_date>
+		<order_id> 585920464 </order_id>
+		<ship_date> 7/15/2011 </ship_date>
+		<units_sold> 5741 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 272410.45 </total_revenue>
+		<total_cost> 182506.39 </total_cost>
+		<total_profit> 89904.06 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Djibouti </country>
+		<item_type> Cereal </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 5/20/2017 </order_date>
+		<order_id> 555990016 </order_id>
+		<ship_date> 6/17/2017 </ship_date>
+		<units_sold> 8656 </units_sold>
+		<unit_price> 205.70 </unit_price>
+		<unit_cost> 117.11 </unit_cost>
+		<total_revenue> 1780539.20 </total_revenue>
+		<total_cost> 1013704.16 </total_cost>
+		<total_profit> 766835.04 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Pakistan </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 7/5/2013 </order_date>
+		<order_id> 231145322 </order_id>
+		<ship_date> 8/16/2013 </ship_date>
+		<units_sold> 9892 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 4324782.40 </total_revenue>
+		<total_cost> 2604860.36 </total_cost>
+		<total_profit> 1719922.04 </total_profit>
+	</row>
+	<row>
+		<region> North America </region>
+		<country> Mexico </country>
+		<item_type> Household </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 11/6/2014 </order_date>
+		<order_id> 986435210 </order_id>
+		<ship_date> 12/12/2014 </ship_date>
+		<units_sold> 6954 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 4647149.58 </total_revenue>
+		<total_cost> 3494663.16 </total_cost>
+		<total_profit> 1152486.42 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Federated States of Micronesia </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 10/28/2014 </order_date>
+		<order_id> 217221009 </order_id>
+		<ship_date> 11/15/2014 </ship_date>
+		<units_sold> 9379 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 445033.55 </total_revenue>
+		<total_cost> 298158.41 </total_cost>
+		<total_profit> 146875.14 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Laos </country>
+		<item_type> Vegetables </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 9/15/2011 </order_date>
+		<order_id> 789176547 </order_id>
+		<ship_date> 10/23/2011 </ship_date>
+		<units_sold> 3732 </units_sold>
+		<unit_price> 154.06 </unit_price>
+		<unit_cost> 90.93 </unit_cost>
+		<total_revenue> 574951.92 </total_revenue>
+		<total_cost> 339350.76 </total_cost>
+		<total_profit> 235601.16 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Monaco </country>
+		<item_type> Baby Food </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 5/29/2012 </order_date>
+		<order_id> 688288152 </order_id>
+		<ship_date> 6/2/2012 </ship_date>
+		<units_sold> 8614 </units_sold>
+		<unit_price> 255.28 </unit_price>
+		<unit_cost> 159.42 </unit_cost>
+		<total_revenue> 2198981.92 </total_revenue>
+		<total_cost> 1373243.88 </total_cost>
+		<total_profit> 825738.04 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Samoa  </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 7/20/2013 </order_date>
+		<order_id> 670854651 </order_id>
+		<ship_date> 8/7/2013 </ship_date>
+		<units_sold> 9654 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 4220728.80 </total_revenue>
+		<total_cost> 2542187.82 </total_cost>
+		<total_profit> 1678540.98 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Spain </country>
+		<item_type> Household </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 10/21/2012 </order_date>
+		<order_id> 213487374 </order_id>
+		<ship_date> 11/30/2012 </ship_date>
+		<units_sold> 4513 </units_sold>
+		<unit_price> 668.27 </unit_price>
+		<unit_cost> 502.54 </unit_cost>
+		<total_revenue> 3015902.51 </total_revenue>
+		<total_cost> 2267963.02 </total_cost>
+		<total_profit> 747939.49 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Lebanon </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 9/18/2012 </order_date>
+		<order_id> 663110148 </order_id>
+		<ship_date> 10/8/2012 </ship_date>
+		<units_sold> 7884 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 861563.52 </total_revenue>
+		<total_cost> 282562.56 </total_cost>
+		<total_profit> 579000.96 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Iran </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 11/15/2016 </order_date>
+		<order_id> 286959302 </order_id>
+		<ship_date> 12/8/2016 </ship_date>
+		<units_sold> 6489 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 2836990.80 </total_revenue>
+		<total_cost> 1708748.37 </total_cost>
+		<total_profit> 1128242.43 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Zambia </country>
+		<item_type> Snacks </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 1/4/2011 </order_date>
+		<order_id> 122583663 </order_id>
+		<ship_date> 1/5/2011 </ship_date>
+		<units_sold> 4085 </units_sold>
+		<unit_price> 152.58 </unit_price>
+		<unit_cost> 97.44 </unit_cost>
+		<total_revenue> 623289.30 </total_revenue>
+		<total_cost> 398042.40 </total_cost>
+		<total_profit> 225246.90 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Kenya </country>
+		<item_type> Vegetables </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 3/18/2012 </order_date>
+		<order_id> 827844560 </order_id>
+		<ship_date> 4/7/2012 </ship_date>
+		<units_sold> 6457 </units_sold>
+		<unit_price> 154.06 </unit_price>
+		<unit_cost> 90.93 </unit_cost>
+		<total_revenue> 994765.42 </total_revenue>
+		<total_cost> 587135.01 </total_cost>
+		<total_profit> 407630.41 </total_profit>
+	</row>
+	<row>
+		<region> North America </region>
+		<country> Mexico </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 2/17/2012 </order_date>
+		<order_id> 430915820 </order_id>
+		<ship_date> 3/20/2012 </ship_date>
+		<units_sold> 6422 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 524870.06 </total_revenue>
+		<total_cost> 363934.74 </total_cost>
+		<total_profit> 160935.32 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Sao Tome and Principe </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 1/16/2011 </order_date>
+		<order_id> 180283772 </order_id>
+		<ship_date> 1/21/2011 </ship_date>
+		<units_sold> 8829 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 418936.05 </total_revenue>
+		<total_cost> 280673.91 </total_cost>
+		<total_profit> 138262.14 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> The Gambia </country>
+		<item_type> Baby Food </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 2/3/2014 </order_date>
+		<order_id> 494747245 </order_id>
+		<ship_date> 3/20/2014 </ship_date>
+		<units_sold> 5559 </units_sold>
+		<unit_price> 255.28 </unit_price>
+		<unit_cost> 159.42 </unit_cost>
+		<total_revenue> 1419101.52 </total_revenue>
+		<total_cost> 886215.78 </total_cost>
+		<total_profit> 532885.74 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Kuwait </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 4/30/2012 </order_date>
+		<order_id> 513417565 </order_id>
+		<ship_date> 5/18/2012 </ship_date>
+		<units_sold> 522 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 4870.26 </total_revenue>
+		<total_cost> 3612.24 </total_cost>
+		<total_profit> 1258.02 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Slovenia </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 10/23/2016 </order_date>
+		<order_id> 345718562 </order_id>
+		<ship_date> 11/25/2016 </ship_date>
+		<units_sold> 4660 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 221117.00 </total_revenue>
+		<total_cost> 148141.40 </total_cost>
+		<total_profit> 72975.60 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Sierra Leone </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 12/6/2016 </order_date>
+		<order_id> 621386563 </order_id>
+		<ship_date> 12/14/2016 </ship_date>
+		<units_sold> 948 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 617347.08 </total_revenue>
+		<total_cost> 497662.08 </total_cost>
+		<total_profit> 119685.00 </total_profit>
+	</row>
+	<row>
+		<region> Australia and Oceania </region>
+		<country> Australia </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 7/7/2014 </order_date>
+		<order_id> 240470397 </order_id>
+		<ship_date> 7/11/2014 </ship_date>
+		<units_sold> 9389 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 445508.05 </total_revenue>
+		<total_cost> 298476.31 </total_cost>
+		<total_profit> 147031.74 </total_profit>
+	</row>
+	<row>
+		<region> Middle East and North Africa </region>
+		<country> Azerbaijan </country>
+		<item_type> Office Supplies </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 6/13/2012 </order_date>
+		<order_id> 423331391 </order_id>
+		<ship_date> 7/24/2012 </ship_date>
+		<units_sold> 2021 </units_sold>
+		<unit_price> 651.21 </unit_price>
+		<unit_cost> 524.96 </unit_cost>
+		<total_revenue> 1316095.41 </total_revenue>
+		<total_cost> 1060944.16 </total_cost>
+		<total_profit> 255151.25 </total_profit>
+	</row>
+	<row>
+		<region> Europe </region>
+		<country> Romania </country>
+		<item_type> Cosmetics </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> H </order_priority>
+		<order_date> 11/26/2010 </order_date>
+		<order_id> 660643374 </order_id>
+		<ship_date> 12/25/2010 </ship_date>
+		<units_sold> 7910 </units_sold>
+		<unit_price> 437.20 </unit_price>
+		<unit_cost> 263.33 </unit_cost>
+		<total_revenue> 3458252.00 </total_revenue>
+		<total_cost> 2082940.30 </total_cost>
+		<total_profit> 1375311.70 </total_profit>
+	</row>
+	<row>
+		<region> Central America and the Caribbean </region>
+		<country> Nicaragua </country>
+		<item_type> Beverages </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 2/8/2011 </order_date>
+		<order_id> 963392674 </order_id>
+		<ship_date> 3/21/2011 </ship_date>
+		<units_sold> 8156 </units_sold>
+		<unit_price> 47.45 </unit_price>
+		<unit_cost> 31.79 </unit_cost>
+		<total_revenue> 387002.20 </total_revenue>
+		<total_cost> 259279.24 </total_cost>
+		<total_profit> 127722.96 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Mali </country>
+		<item_type> Clothes </item_type>
+		<sales_channel> Online </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 7/26/2011 </order_date>
+		<order_id> 512878119 </order_id>
+		<ship_date> 9/3/2011 </ship_date>
+		<units_sold> 888 </units_sold>
+		<unit_price> 109.28 </unit_price>
+		<unit_cost> 35.84 </unit_cost>
+		<total_revenue> 97040.64 </total_revenue>
+		<total_cost> 31825.92 </total_cost>
+		<total_profit> 65214.72 </total_profit>
+	</row>
+	<row>
+		<region> Asia </region>
+		<country> Malaysia </country>
+		<item_type> Fruits </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> L </order_priority>
+		<order_date> 11/11/2011 </order_date>
+		<order_id> 810711038 </order_id>
+		<ship_date> 12/28/2011 </ship_date>
+		<units_sold> 6267 </units_sold>
+		<unit_price> 9.33 </unit_price>
+		<unit_cost> 6.92 </unit_cost>
+		<total_revenue> 58471.11 </total_revenue>
+		<total_cost> 43367.64 </total_cost>
+		<total_profit> 15103.47 </total_profit>
+	</row>
+	<row>
+		<region> Sub-Saharan Africa </region>
+		<country> Sierra Leone </country>
+		<item_type> Vegetables </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> C </order_priority>
+		<order_date> 6/1/2016 </order_date>
+		<order_id> 728815257 </order_id>
+		<ship_date> 6/29/2016 </ship_date>
+		<units_sold> 1485 </units_sold>
+		<unit_price> 154.06 </unit_price>
+		<unit_cost> 90.93 </unit_cost>
+		<total_revenue> 228779.10 </total_revenue>
+		<total_cost> 135031.05 </total_cost>
+		<total_profit> 93748.05 </total_profit>
+	</row>
+	<row>
+		<region> North America </region>
+		<country> Mexico </country>
+		<item_type> Personal Care </item_type>
+		<sales_channel> Offline </sales_channel>
+		<order_priority> M </order_priority>
+		<order_date> 7/30/2015 </order_date>
+		<order_id> 559427106 </order_id>
+		<ship_date> 8/8/2015 </ship_date>
+		<units_sold> 5767 </units_sold>
+		<unit_price> 81.73 </unit_price>
+		<unit_cost> 56.67 </unit_cost>
+		<total_revenue> 471336.91 </total_revenue>
+		<total_cost> 326815.89 </total_cost>
+		<total_profit> 144521.02 </total_profit>
+	</row>
+</document>
