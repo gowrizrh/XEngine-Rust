@@ -1,4 +1,13 @@
 
+struct Tag {
+    name: String,
+    value: Value
+}
+
+struct Value {
+    text: String
+}
+
 pub fn generate_headers<'a>(s: &'a String, col_lin: usize) -> Vec<&str> {
     let mut vec: Vec<&str> = s.split('\n').collect();
     vec = vec[col_lin].split(',').collect();
